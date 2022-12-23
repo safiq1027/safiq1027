@@ -1,7 +1,6 @@
 ![ Software Engineer Intern](https://avatars.githubusercontent.com/u/112417622?v=4)
 ### Hi there 👋, I am Md Safiqul Islam
 ####  Software Engineer Intern
-![ Software Engineer Intern](https://avatars.githubusercontent.com/u/112417622?v=4)
 
 This is Md Safiqul Islam Student of Computer
 science & Telecommunication Engineering

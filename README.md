@@ -1,7 +1,6 @@
-![ Software Engineer Intern](https://scontent.fdac138-1.fna.fbcdn.net/v/t1.6435-9/144972248_1104992333281264_8723517185075422659_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeG1SG_7IlOArTIyLtUJpsEe8tnOAGsk5jny2c4AayTmOQar1O4brvQ5PZrBnDBjuYC13tsF7fcBvYWM_0-NaiEk&_nc_ohc=DfVjyi0W-G0AX_8uHJr&_nc_ht=scontent.fdac138-1.fna&oh=00_AfDSZZOe4Hb1MrZH-ftQR72putGMWfaLGwL5GSHohLos8g&oe=63CD04AF)
 ### Hi there 👋, I am Md Safiqul Islam
 ####  Software Engineer Intern
-
+![ Software Engineer Intern](https://avatars.githubusercontent.com/u/112417622?v=4)
 
 This is Md Safiqul Islam Student of Computer
 science & Telecommunication Engineering
